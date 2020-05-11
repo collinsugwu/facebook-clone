@@ -112,7 +112,10 @@ gem install pg
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ``` -->
-
+4. Testing
+```
+rspec
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
